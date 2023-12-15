@@ -7,7 +7,7 @@
 
 ---
 <div align="left">
-<h1>Sobre mi:
+<h1>Sobre mi: </h1>
 
 - 🔭 Actualmente estoy trabajando en: Proyectos de análisis de datos que transforman grandes volúmenes de información en decisiones estratégicas.
 - 🌱 Actualmente estoy aprendiendo: técnicas intermedio-avanzadas de procesamiento y visualización de datos, así como modelos predictivos en ciencia de datos.
