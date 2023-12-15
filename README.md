@@ -30,7 +30,7 @@
   </div>
   
 ---
-<h1>Mis estadísticas: </h1>
+<h2>Mis estadísticas: </h2>
 <div id= "header" align="center" >
 
   
