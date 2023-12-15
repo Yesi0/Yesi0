@@ -24,7 +24,7 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="Python" width = "40" height = "40"/>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title ="SQL" width = "40" height = "40"/>
    <img src= "https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title ="Power Bi" width = "40" height = "40"/>
-   <img src= "[https://dz2cdn1.dzone.com/storage/article-thumb/14800948-thumb.jpg](https://3.bp.blogspot.com/-K77xLZwa3ww/WtfCjshTzvI/AAAAAAAAFaY/6jxSspBlFWolxpAaIVToQBtiXBMfzPlWACLcBGAs/s1600/bigquery%2Blogo.png)https://3.bp.blogspot.com/-K77xLZwa3ww/WtfCjshTzvI/AAAAAAAAFaY/6jxSspBlFWolxpAaIVToQBtiXBMfzPlWACLcBGAs/s1600/bigquery%2Blogo.png" title ="BigQuery" width = "40" height = "40"/>
+   <img src= "https://e7.pngegg.com/pngimages/29/812/png-clipart-bigquery-google-cloud-platform-cloud-computing-database-google-blue-logo.png" title ="BigQuery" width = "40" height = "40"/>
    <img src= "https://www.marceldigital.com/media/r2hpgurg/looker-studio-logo-2.png?width=206&height=184" title ="Looker Studio" width = "40" height = "40"/>
     
   </div>
