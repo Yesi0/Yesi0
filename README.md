@@ -12,8 +12,9 @@
 - 🔭 Actualmente estoy trabajando en: Proyectos de análisis de datos que transforman grandes volúmenes de información en decisiones estratégicas.
 - 🌱 Actualmente estoy aprendiendo: técnicas intermedio-avanzadas de procesamiento y visualización de datos, así como modelos predictivos en ciencia de datos.
 - 👯  Busco colaborar en: iniciativas que utilicen el análisis de datos para resolver problemas, especialmente aquellos que tengan un impacto social o empresarial significativo
-- 🤔 Busco ayuda con: profundizar en aprendizaje automático y análisis predictivo aplicados a datos financieros y de mercado.
+- 🤔 Busco ayuda con: profundizar en aprendizaje automático y análisis predictivo aplicados a datos financieros, de mercado con el objetivo de desarrollar soluciones innovadoras que impulsen la toma de decisiones y la estrategia en las empresas.
 - 📫 escribeme: yesenia.quirozsaez@gmail.com
+- 📫 contactame: (https://www.linkedin.com/in/yeseniaquirozsaez/)
 
 ---
 
