@@ -14,7 +14,7 @@
 - 👯  Busco colaborar en: iniciativas que utilicen el análisis de datos para resolver problemas, especialmente aquellos que tengan un impacto social o empresarial significativo
 - 🤔 Busco ayuda con: profundizar en aprendizaje automático y análisis predictivo aplicados a datos financieros, de mercado con el objetivo de desarrollar soluciones innovadoras que impulsen la toma de decisiones y la estrategia en las empresas.
 - 📫 escribeme: yesenia.quirozsaez@gmail.com
-- 📫 contactame: (https://www.linkedin.com/in/yeseniaquirozsaez/)
+- 📫 contactame: [Linkedin](https://www.linkedin.com/in/yeseniaquirozsaez/)
 
 ---
 
