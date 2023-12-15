@@ -5,8 +5,9 @@
   <!--<h3 align="center">/!-->¡Hola, terrícolas y amantes de los datos! Soy la capitana de mi nave espacial de análisis, volando a través del universo de la información con mi brújula de datos y mi telescopio financiero. Mis misiones incluyen descifrar el lenguaje críptico de los números y las tendencias para ayudar a las empresas a no perderse en el agujero negro de la indecisión. 
  
 
---
-Sobre mi:
+---
+<div align="left">
+<h1 align="center">Sobre mi:
 
 - 🔭 Actualmente estoy trabajando en: Proyectos de análisis de datos que transforman grandes volúmenes de información en decisiones estratégicas.
 - 🌱 Actualmente estoy aprendiendo: técnicas intermedio-avanzadas de procesamiento y visualización de datos, así como modelos predictivos en ciencia de datos.
@@ -14,7 +15,7 @@ Sobre mi:
 - 🤔 Busco ayuda con: profundizar en aprendizaje automático y análisis predictivo aplicados a datos financieros y de mercado.
 - 📫 escribeme: yesenia.quirozsaez@gmail.com
 
---
+---
 
 <div align="left">
   <h3> Lenguajes y herramientas </h3>
