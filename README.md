@@ -19,7 +19,7 @@
 ---
 
 <div align="left">
-  <h3> Lenguajes y herramientas </h3>
+  <h2> Lenguajes y herramientas </h2>
   <div>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="Python" width = "40" height = "40"/>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title ="SQL" width = "40" height = "40"/>
@@ -28,3 +28,13 @@
    <img src= "https://www.marceldigital.com/media/r2hpgurg/looker-studio-logo-2.png?width=206&height=184" title ="Looker Studio" width = "40" height = "40"/>
     
   </div>
+  
+---
+<h1>Mis estadísticas: </h1>
+<div id= "header" align="center" >
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yesi0&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesi0&layout=compact&theme=dark)
+
