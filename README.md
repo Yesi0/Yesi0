@@ -1,8 +1,8 @@
 <div id= "header" align="center" >
   <img src= "https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width = "200"/>
 </div>
-<h1 align="center">Hola 👋!! Soy Yesenia Quiroz, pero todos me dicen Yesi :D 
-  <h3 align="center">¡Hola, terrícolas y amantes de los datos! Soy la capitana de mi nave espacial de análisis, volando a través del universo de la información con mi brújula de datos y mi telescopio financiero. Mis misiones incluyen descifrar el lenguaje críptico de los números y las tendencias para ayudar a las empresas a no perderse en el agujero negro de la indecisión. /h3>
+<!--<h1 align="center"> /!--> Hola 👋!! Soy Yesenia Quiroz, pero todos me dicen Yesi :D 
+  <h3 align="center">¡Hola, terrícolas y amantes de los datos! Soy la capitana de mi nave espacial de análisis, volando a través del universo de la información con mi brújula de datos y mi telescopio financiero. Mis misiones incluyen descifrar el lenguaje críptico de los números y las tendencias para ayudar a las empresas a no perderse en el agujero negro de la indecisión. 
  
 
 --
