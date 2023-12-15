@@ -24,5 +24,6 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="Python" width = "40" height = "40"/>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title ="SQL" width = "40" height = "40"/>
    <img src= "https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title ="SQL" width = "40" height = "40"/>
+   <img src= "https://dz2cdn1.dzone.com/storage/article-thumb/14800948-thumb.jpg" title ="SQL" width = "40" height = "40"/>
     
   </div>
