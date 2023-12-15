@@ -22,5 +22,7 @@
   <h3> Lenguajes y herramientas </h3>
   <div>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="Python" width = "40" height = "40"/>
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title ="SQL" width = "40" height = "40"/>
+   <img src= "https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title ="SQL" width = "40" height = "40"/>
     
   </div>
