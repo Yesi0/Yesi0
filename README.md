@@ -21,7 +21,7 @@
 <div align="left">
   <h3> Lenguajes y herramientas </h3>
   <div>
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="Python" width = "40" height = "40"/>
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="Python" width = "40" height = "40"/>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title ="SQL" width = "40" height = "40"/>
    <img src= "https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title ="Power Bi" width = "40" height = "40"/>
    <img src= "https://e7.pngegg.com/pngimages/29/812/png-clipart-bigquery-google-cloud-platform-cloud-computing-database-google-blue-logo.png" title ="BigQuery" width = "40" height = "40"/>
